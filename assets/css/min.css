@@ -1,0 +1,44 @@
+element.style {
+}
+p {
+    margin: 0 0 10px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+.mastfoot {
+    color: #999;
+    color: rgba(255,255,255,.5);
+}
+body {
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+html {
+    font-size: 10px;
+}
+html {
+    font-family: sans-serif;
+}
+:after, :before {
+    box-sizing: border-box;
+}
+:after, :before {
+    box-sizing: border-box;
+}
